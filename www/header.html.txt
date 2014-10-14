@@ -1,0 +1,5 @@
+<div data-role="header" data-position="fixed" id="header">
+    <img src="img/mobile_logo.png" />
+    <a href="#page1" data-transition="slide" data-direction="reverse" id="back"><img src="img/home.png" /></a>
+    <a href="#myPanel" class="ui-btn ui-btn-inline ui-corner-all ui-shadow menu-header-1"><img src="img/menu.png" /></a>
+</div><!-- /header -->
